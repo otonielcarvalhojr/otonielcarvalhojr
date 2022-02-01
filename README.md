@@ -1,8 +1,8 @@
 ### Hi guys, my name is Otoniel, 
 
-I'm a brazilian Data Scientist and I love to work with Power BI. 
-I love so much studying the Data Science world and sharing my knowledge.
-Welcome to the team! 👋
+<p>I'm a brazilian Data Scientist and I love to work with Power BI. </p>
+<p>I love so much studying the Data Science world and sharing my knowledge.</p>
+<p>Welcome to the team! 👋</p>
 
 <!--
 **otonielcarvalhojr/otonielcarvalhojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
