@@ -2,6 +2,7 @@
 
 <p>I'm a brazilian Data Scientist and I love to work with Power BI. </p>
 <p>I love so much studying the Data Science world and sharing my knowledge.</p>
+<p>Tools: Python, R, Power BI, SQL Developer</p>
 <p>Welcome to the team! 👋</p>
 
 <p>https://medium.com/@otonielcarvalhojr</p>
